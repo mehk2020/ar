@@ -136,12 +136,6 @@
             "target": 34963
         }
     ],
-    "buffers": [
-        {
-            "byteLength": 328104,
-            "uri": "me_xmas_edm_binary.bin"
-        }
-    ],
     "cameras": [
         {
             "perspective": {
