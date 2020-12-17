@@ -2,27 +2,19 @@
 <html>
     <script src="https://aframe.io/releases/1.0.0/aframe.min.js"></script>
     <!-- we import arjs version without NFT but with marker + location based support -->
-    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+    <script src="aframe-ar.js"></script>
     <body style="margin : 0px; overflow: hidden; border:3px solid red;">
         <a-scene embedded arjs>
         <a-marker preset="hiro">
-                    <!-- <a-entity 
-        obj-model="obj: url(https://mehk2020.github.io/ar/marker-based/Untitled.obj); 
-        mtl: url(https://mehk2020.github.io/ar/marker-based/Untitled.mtl)">
-        </a-entity> -->
-
-         <a-assets>
-            <a-asset-item id="tree-obj" src="https://mehk2020.github.io/ar/marker-based/Untitled.obj"></a-asset-item>
-            <a-asset-item id="tree-mtl" src="https://mehk2020.github.io/ar/marker-based/Untitled.mtl"></a-asset-item>
-          </a-assets>
+               
         
           <a-entity obj-model="obj: #tree-obj; mtl: #tree-mtl"></a-entity>
-            <!-- <a-entity
+            <a-entity
             position="0 0 0"
             rotation="0 0 0"
             scale="0.001 0.001 0.001"
             gltf-model="https://mehk2020.github.io/ar/marker-based/Untitled.gltf"
-            ></a-entity> -->
+            ></a-entity>
         </a-marker>
         <a-entity camera></a-entity>
         </a-scene>
