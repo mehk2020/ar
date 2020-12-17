@@ -1,0 +1,306 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 611127eacd250f22943d21b3c2c9dbaa3a0ef9a2",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 4764,
+            "type": "VEC3",
+            "max": [
+                2.1337108612060549,
+                -0.5127325057983398,
+                1.6125974655151368
+            ],
+            "min": [
+                -2.133711099624634,
+                -1.6127325296401978,
+                -1.6125974655151368
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 4764,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 4764,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 4764,
+            "type": "SCALAR",
+            "max": [
+                4763.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 4350,
+            "type": "VEC3",
+            "max": [
+                2.006946325302124,
+                0.6878585815429688,
+                0.4121415615081787
+            ],
+            "min": [
+                -2.006946325302124,
+                -0.4121415317058563,
+                -0.41214147210121157
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 4350,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 4350,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 4350,
+            "type": "SCALAR",
+            "max": [
+                4349.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 57168,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 57168,
+            "byteLength": 57168,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 114336,
+            "byteLength": 38112,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 152448,
+            "byteLength": 19056,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 171504,
+            "byteLength": 52200,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 223704,
+            "byteLength": 52200,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 275904,
+            "byteLength": 34800,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 310704,
+            "byteLength": 17400,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 328104,
+            "uri": "me_xmas_edm_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.8148466944694519,
+                    0.010960093699395657,
+                    0.016807375475764276,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.028999999165534974
+            },
+            "name": "Plastic 61",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.16826939582824708,
+                    0.16513222455978394,
+                    0.16826939582824708,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.028999999165534974
+            },
+            "name": "Plastic 62",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "body 2",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "body 3",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5722376704216003,
+                0.10973779112100601,
+                0.6035875082015991
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3
+            ],
+            "translation": [
+                0.23697057366371156,
+                -0.15583354234695435,
+                -0.06396970897912979
+            ],
+            "scale": [
+                1.123497724533081,
+                1.123497724533081,
+                1.123497724533081
+            ],
+            "name": "Group 66"
+        },
+        {
+            "translation": [
+                -0.21092216670513154,
+                0.1526314616203308,
+                0.0513872429728508
+            ],
+            "rotation": [
+                -0.7071067094802856,
+                9.789837207563323e-8,
+                9.789835786477852e-8,
+                0.7071068286895752
+            ],
+            "scale": [
+                0.005223134066909552,
+                0.005223134066909552,
+                0.005223138257861137
+            ],
+            "mesh": 0,
+            "name": "body 2"
+        },
+        {
+            "translation": [
+                -0.21092213690280915,
+                0.14085659384727479,
+                0.05765802413225174
+            ],
+            "rotation": [
+                -0.7071067094802856,
+                6.698973464835945e-8,
+                1.2880700239747967e-7,
+                0.7071068286895752
+            ],
+            "scale": [
+                0.005223134066909552,
+                0.005223134066909552,
+                0.005223137326538563
+            ],
+            "mesh": 1,
+            "name": "body 3"
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "scene": 0
+}
