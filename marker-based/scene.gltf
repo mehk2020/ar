@@ -520,6 +520,14 @@
       "name": "Gummy3_Blue_0"
     }
   ],
-  "scene": 0
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
 }
 
