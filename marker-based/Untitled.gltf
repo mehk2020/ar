@@ -78,18 +78,6 @@
             "uri": "Untitled_binary.bin"
         }
     ],
-    "cameras": [
-        {
-            "perspective": {
-                "znear": 0.000010000000656873454,
-                "yfov": 0.6024156808853149,
-                "zfar": 2.0,
-                "aspectRatio": 1.3333333730697632
-            },
-            "type": "perspective",
-            "name": "render_camera"
-        }
-    ],
     "materials": [
         {
             "pbrMetallicRoughness": {
