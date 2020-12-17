@@ -1,5 +1,7 @@
 {
     "asset" : {
+      "author": "Bean",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
         "generator" : "Khronos glTF Blender I/O v1.4.40",
         "version" : "2.0"
     },
