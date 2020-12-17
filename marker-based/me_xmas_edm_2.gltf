@@ -1014,35 +1014,45 @@
             "name": "render_camera"
         }
     ],
-    "images": [
+   "images": [
         {
-            "name": "image103",
-            "uri": "me_xmas_edm_2_images\\image103.png",
+            "name": "image126",
+            "uri": "g_images\\image126.png",
             "mimeType": "image/png"
         },
         {
-            "name": "image4",
-            "uri": "me_xmas_edm_2_images\\image4.png",
+            "name": "image15",
+            "uri": "g_images\\image15.png",
             "mimeType": "image/png"
         },
         {
             "name": "damaged_glass_normal",
-            "uri": "me_xmas_edm_2_images\\damaged_glass_normal.png",
+            "uri": "g_images\\damaged_glass_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "image15_0",
+            "uri": "g_images\\image15_0.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "ice_normal",
+            "uri": "g_images\\ice_normal.png",
             "mimeType": "image/png"
         },
         {
             "name": "basecolor_image_texture",
-            "uri": "me_xmas_edm_2_images\\basecolor_image_texture.jpg",
+            "uri": "g_images\\basecolor_image_texture.jpg",
             "mimeType": "image/jpeg"
         },
         {
             "name": "roughness_image_texture",
-            "uri": "me_xmas_edm_2_images\\roughness_image_texture.png",
+            "uri": "g_images\\roughness_image_texture.png",
             "mimeType": "image/png"
         },
         {
             "name": "normal_image_texture",
-            "uri": "me_xmas_edm_2_images\\normal_image_texture.png",
+            "uri": "g_images\\normal_image_texture.png",
             "mimeType": "image/png"
         }
     ],
