@@ -1021,11 +1021,6 @@
     ],
     "images": [
         {
-            "name": "image126",
-            "uri": "g_images\\image126.png",
-            "mimeType": "image/png"
-        },
-        {
             "name": "image15",
             "uri": "g_images\\image15.png",
             "mimeType": "image/png"
